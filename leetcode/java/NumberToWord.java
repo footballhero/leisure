@@ -1,4 +1,4 @@
-package leetcode.java;
+package leisure.leetcode.java;
 
 class NumberToWord {
     String[] scales = {"", "Thousand ", "Million ", "Billion ", "Trillion "};
